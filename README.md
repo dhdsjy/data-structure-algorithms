@@ -3,22 +3,55 @@
    主要参考教材是师兄给的《剑指offer》以及偶然间在七月算法上发现的一个免费的直播coding（按专题讲解LeetCode上的题）；
   使用主要语言是c和Python。
   
-   # outline
-   ## data structure
-   **chapter1** 数组
-   + 《剑指offer》
-   + 直播coding 4
-   + 实战 牛客 LeetCode
+# outline
+## data structure
+**chapter1** 数组
+ + 《剑指offer》
+ + 直播coding 4
+ + 实战 牛客 LeetCode
    
-   **chapter1** 字符串
-   + 
-   **chapter1** 栈和队列
-   **chapter1** 链表
-   **chapter1** 树
-   **chapter1** 图
+**chapter2** 字符串
+ + 《剑指offer》
+ + 直播coding 5
+ + 实战 牛客 LeetCode
+ 
+**chapter3** 栈和队列
+ + 啊哈！算法 栈和队列
+ + 《剑指offer》
+ + 实战 牛客 LeetCode
+ 
+**chapter4** 链表
+ + 啊哈，算法 链表
+ + 《剑指offer》
+ + 直播coding 6
+ + 实战 牛客 LeetCode
+ 
+**chapter5** 图搜索实战
++ 啊哈，算法 3 4 5 章
++ 直播coding 6
+
+**chapter6** 树
+ +  啊哈，算法 第七章 神奇的树
+ + 《剑指offer》
+ + 直播coding 3
+ + 实战 牛客 LeetCode
+
    
-   ## algorithms
-   **chapter1** 查找和排序
-   **chapter1** 递归和循环
-   **chapter1** 深度优先和广度优先
-   **chapter1** 动态规划
+## algorithms
+**chapter7** 查找和排序
++ 啊哈，算法 第一章 网络资源 各种排序
++ 《剑指offer》
++ 直播coding 2
++ 实战 牛客 LeetCode
+
+**chapter8** 最短路径
++  啊哈，算法 第六章最短路径
++ 实战 牛客 LeetCode
+
+**chapter9** 递归和循环
++ 图解算法 第三章
++ 实战 牛客 LeetCode
+
+**chapter10** 动态规划
++ 图解算法 第九章
++ 直播coding 1
